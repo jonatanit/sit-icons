@@ -1,0 +1,564 @@
+@font-face {
+  font-family: 'Siticon';
+  src:  url('../fonts/Siticon.eot?h7p2i7');
+  src:  url('../fonts/Siticon.eot?h7p2i7#iefix') format('embedded-opentype'),
+    url('../fonts/Siticon.ttf?h7p2i7') format('truetype'),
+    url('../fonts/Siticon.woff?h7p2i7') format('woff'),
+    url('../fonts/Siticon.svg?h7p2i7#Siticon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Siticon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-sit-1k:before {
+  content: "\e911";
+}
+.icon-sit-1kplus:before {
+  content: "\e912";
+}
+.icon-sit-1xmobile:before {
+  content: "\e9a7";
+}
+.icon-sit-filtrar:before {
+  content: "\e9a8";
+}
+.icon-sit-conde:before {
+  content: "\e910";
+}
+.icon-sit-enchufe-2:before {
+  content: "\e900";
+}
+.icon-sit-lubricacion:before {
+  content: "\e901";
+}
+.icon-sit-caja-reductora:before {
+  content: "\e902";
+}
+.icon-sit-herni:before {
+  content: "\e903";
+}
+.icon-sit-pozo-petrolero:before {
+  content: "\e904";
+}
+.icon-sit-pozo-inyector:before {
+  content: "\e905";
+}
+.icon-sit-pozo-gas:before {
+  content: "\e906";
+}
+.icon-sit-transformador:before {
+  content: "\e907";
+}
+.icon-sit-skid:before {
+  content: "\e908";
+}
+.icon-sit-media-tension:before {
+  content: "\e909";
+}
+.icon-sit-tablero:before {
+  content: "\e90a";
+}
+.icon-sit-soplador:before {
+  content: "\e90b";
+}
+.icon-sit-bomba-2:before {
+  content: "\e90c";
+}
+.icon-sit-gas:before {
+  content: "\e90d";
+}
+.icon-sit-enfriador-aereo:before {
+  content: "\e90e";
+}
+.icon-sit-compresor:before {
+  content: "\e90f";
+}
+.icon-sit-turbina-2:before {
+  content: "\e913";
+}
+.icon-sit-turbina:before {
+  content: "\e914";
+}
+.icon-sit-turbo-2:before {
+  content: "\e915";
+}
+.icon-sit-bomba-engranaje:before {
+  content: "\e916";
+}
+.icon-sit-impresora:before {
+  content: "\e917";
+}
+.icon-sit-vr:before {
+  content: "\e918";
+}
+.icon-sit-motor-alt:before {
+  content: "\e919";
+}
+.icon-sit-bomba-centrifuga:before {
+  content: "\e91a";
+}
+.icon-sit-bomba-alt .path1:before {
+  content: "\e91b";
+  color: rgb(0, 0, 0);
+}
+.icon-sit-bomba-alt .path2:before {
+  content: "\e91c";
+  margin-left: -1.140625em;
+  color: rgb(255, 255, 255);
+}
+.icon-sit-bomba-alt .path3:before {
+  content: "\e91d";
+  margin-left: -1.140625em;
+  color: rgb(255, 255, 255);
+}
+.icon-sit-bomba-alt .path4:before {
+  content: "\e91e";
+  margin-left: -1.140625em;
+  color: rgb(0, 0, 0);
+}
+.icon-sit-bomba-alt .path5:before {
+  content: "\e91f";
+  margin-left: -1.140625em;
+  color: rgb(0, 0, 0);
+}
+.icon-sit-grupo:before {
+  content: "\e920";
+}
+.icon-sit-roles:before {
+  content: "\e921";
+}
+.icon-sit-motor-2:before {
+  content: "\e922";
+}
+.icon-sit-chart:before {
+  content: "\e923";
+}
+.icon-sit-monitor:before {
+  content: "\e924";
+}
+.icon-sit-silla-2:before {
+  content: "\e925";
+}
+.icon-sit-barco:before {
+  content: "\e926";
+}
+.icon-sit-cajas:before {
+  content: "\e927";
+}
+.icon-sit-canio:before {
+  content: "\e928";
+}
+.icon-sit-chip-2:before {
+  content: "\e929";
+}
+.icon-sit-conexion:before {
+  content: "\e92a";
+}
+.icon-sit-grua:before {
+  content: "\e92b";
+}
+.icon-sit-maquina:before {
+  content: "\e92c";
+}
+.icon-sit-mineria:before {
+  content: "\e92d";
+}
+.icon-sit-barril:before {
+  content: "\e92e";
+}
+.icon-sit-industria:before {
+  content: "\e92f";
+}
+.icon-sit-metro:before {
+  content: "\e930";
+}
+.icon-sit-perforadora:before {
+  content: "\e931";
+}
+.icon-sit-refineria:before {
+  content: "\e932";
+}
+.icon-sit-toma:before {
+  content: "\e933";
+}
+.icon-sit-torre-electrica:before {
+  content: "\e934";
+}
+.icon-sit-aceite:before {
+  content: "\e935";
+}
+.icon-sit-bujias:before {
+  content: "\e936";
+}
+.icon-sit-butaca:before {
+  content: "\e937";
+}
+.icon-sit-ejes:before {
+  content: "\e938";
+}
+.icon-sit-escape:before {
+  content: "\e939";
+}
+.icon-sit-frenos:before {
+  content: "\e93a";
+}
+.icon-sit-herramienta:before {
+  content: "\e93b";
+}
+.icon-sit-piston:before {
+  content: "\e93c";
+}
+.icon-sit-turbo:before {
+  content: "\e93d";
+}
+.icon-sit-motor-electro:before {
+  content: "\e93e";
+}
+.icon-sit-dos-ejes:before {
+  content: "\e93f";
+}
+.icon-sit-conf-senal:before {
+  content: "\e940";
+}
+.icon-sit-canio-conex:before {
+  content: "\e941";
+}
+.icon-sit-canio-girar:before {
+  content: "\e942";
+}
+.icon-sit-canio-llave:before {
+  content: "\e943";
+}
+.icon-sit-canio-roto-2:before {
+  content: "\e944";
+}
+.icon-sit-canio-tramo:before {
+  content: "\e945";
+}
+.icon-sit-manometro:before {
+  content: "\e946";
+}
+.icon-sit-trabajdor:before {
+  content: "\e947";
+}
+.icon-sit-manometro-canio:before {
+  content: "\e948";
+}
+.icon-sit-archivo:before {
+  content: "\e949";
+}
+.icon-sit-edu:before {
+  content: "\e94a";
+}
+.icon-sit-gafete:before {
+  content: "\e94b";
+}
+.icon-sit-proyectar:before {
+  content: "\e94c";
+}
+.icon-sit-atencion:before {
+  content: "\e94d";
+}
+.icon-sit-certifica:before {
+  content: "\e94e";
+}
+.icon-sit-user-conf:before {
+  content: "\e94f";
+}
+.icon-sit-user-mira:before {
+  content: "\e950";
+}
+.icon-sit-company:before {
+  content: "\e951";
+}
+.icon-sit-billetera:before {
+  content: "\e952";
+}
+.icon-sit-dia-hora:before {
+  content: "\e953";
+}
+.icon-sit-chip:before {
+  content: "\e954";
+}
+.icon-sit-detector:before {
+  content: "\e955";
+}
+.icon-sit-energia:before {
+  content: "\e956";
+}
+.icon-sit-guantes:before {
+  content: "\e957";
+}
+.icon-sit-mangera:before {
+  content: "\e958";
+}
+.icon-sit-perdida:before {
+  content: "\e959";
+}
+.icon-sit-sirena:before {
+  content: "\e95a";
+}
+.icon-sit-soga:before {
+  content: "\e95b";
+}
+.icon-sit-postnet:before {
+  content: "\e95c";
+}
+.icon-sit-router:before {
+  content: "\e95d";
+}
+.icon-sit-drone:before {
+  content: "\e95e";
+}
+.icon-sit-drone-2:before {
+  content: "\e95f";
+}
+.icon-sit-pantalla:before {
+  content: "\e960";
+}
+.icon-sit-solar .path1:before {
+  content: "\e961";
+  color: rgb(0, 0, 0);
+}
+.icon-sit-solar .path2:before {
+  content: "\e962";
+  margin-left: -1.109375em;
+  color: rgb(255, 255, 255);
+}
+.icon-sit-solar .path3:before {
+  content: "\e963";
+  margin-left: -1.109375em;
+  color: rgb(0, 0, 0);
+}
+.icon-sit-solar .path4:before {
+  content: "\e964";
+  margin-left: -1.109375em;
+  color: rgb(0, 0, 0);
+}
+.icon-sit-solar .path5:before {
+  content: "\e965";
+  margin-left: -1.109375em;
+  color: rgb(0, 0, 0);
+}
+.icon-sit-solar .path6:before {
+  content: "\e966";
+  margin-left: -1.109375em;
+  color: rgb(0, 0, 0);
+}
+.icon-sit-solar .path7:before {
+  content: "\e967";
+  margin-left: -1.109375em;
+  color: rgb(255, 255, 255);
+}
+.icon-sit-solar .path8:before {
+  content: "\e968";
+  margin-left: -1.109375em;
+  color: rgb(0, 0, 0);
+}
+.icon-sit-pendrive:before {
+  content: "\e969";
+}
+.icon-sit-mascara:before {
+  content: "\e96a";
+}
+.icon-sit-no-pasar:before {
+  content: "\e96b";
+}
+.icon-sit-alerta:before {
+  content: "\e96c";
+}
+.icon-sit-bota:before {
+  content: "\e96d";
+}
+.icon-sit-camara:before {
+  content: "\e96e";
+}
+.icon-sit-casco:before {
+  content: "\e96f";
+}
+.icon-sit-chaleco:before {
+  content: "\e970";
+}
+.icon-sit-fumar:before {
+  content: "\e971";
+}
+.icon-sit-handy:before {
+  content: "\e972";
+}
+.icon-sit-lentes:before {
+  content: "\e973";
+}
+.icon-sit-maletin:before {
+  content: "\e974";
+}
+.icon-sit-mascara-2:before {
+  content: "\e975";
+}
+.icon-sit-matafuego:before {
+  content: "\e976";
+}
+.icon-sit-barrera:before {
+  content: "\e977";
+}
+.icon-sit-container:before {
+  content: "\e978";
+}
+.icon-sit-lupa-mas:before {
+  content: "\e979";
+}
+.icon-sit-tiempo:before {
+  content: "\e97a";
+}
+.icon-sit-campana:before {
+  content: "\e97b";
+}
+.icon-sit-sobre:before {
+  content: "\e97c";
+}
+.icon-sit-app-ok:before {
+  content: "\e97d";
+}
+.icon-sit-key:before {
+  content: "\e97e";
+}
+.icon-sit-tools:before {
+  content: "\e97f";
+}
+.icon-sit-no-eyes:before {
+  content: "\e980";
+}
+.icon-sit-cinturon:before {
+  content: "\e981";
+}
+.icon-sit-cono:before {
+  content: "\e982";
+}
+.icon-sit-delete:before {
+  content: "\e983";
+}
+.icon-sit-subir:before {
+  content: "\e984";
+}
+.icon-sit-apagar:before {
+  content: "\e985";
+}
+.icon-sit-candado-gota:before {
+  content: "\e986";
+}
+.icon-sit-lab-gota:before {
+  content: "\e987";
+}
+.icon-sit-planta-gota:before {
+  content: "\e988";
+}
+.icon-sit-hand-gota:before {
+  content: "\e989";
+}
+.icon-sit-control:before {
+  content: "\e98a";
+}
+.icon-sit-filtro:before {
+  content: "\e98b";
+}
+.icon-sit-lupa:before {
+  content: "\e98c";
+}
+.icon-sit-lluvia:before {
+  content: "\e98d";
+}
+.icon-sit-no-gota:before {
+  content: "\e98e";
+}
+.icon-sit-zoom-gota:before {
+  content: "\e98f";
+}
+.icon-sit-molecula-gota:before {
+  content: "\e990";
+}
+.icon-sit-filtro-gota:before {
+  content: "\e991";
+}
+.icon-sit-config-gota:before {
+  content: "\e992";
+}
+.icon-sit-botella:before {
+  content: "\e993";
+}
+.icon-sit-calendario:before {
+  content: "\e994";
+}
+.icon-sit-config:before {
+  content: "\e995";
+}
+.icon-sit-email:before {
+  content: "\e996";
+}
+.icon-sit-app-2:before {
+  content: "\e997";
+}
+.icon-sit-busqueda-doc:before {
+  content: "\e998";
+}
+.icon-sit-seguro:before {
+  content: "\e999";
+}
+.icon-sit-user:before {
+  content: "\e99a";
+}
+.icon-sit-pin:before {
+  content: "\e99b";
+}
+.icon-sit-huella:before {
+  content: "\e99c";
+}
+.icon-sit-modulos:before {
+  content: "\e99d";
+}
+.icon-sit-base:before {
+  content: "\e99e";
+}
+.icon-sit-tres-puntos:before {
+  content: "\e99f";
+}
+.icon-sit-eyes-hiden-2:before {
+  content: "\e9a0";
+}
+.icon-sit-eyes:before {
+  content: "\e9a1";
+}
+.icon-sit-add-2:before {
+  content: "\e9a2";
+}
+.icon-sit-add:before {
+  content: "\e9a3";
+}
+.icon-sit-eliminar:before {
+  content: "\e9a4";
+}
+.icon-sit-editar:before {
+  content: "\e9a5";
+}
+.icon-sit-camion-2:before {
+  content: "\e9a6";
+}
+.icon-sit-camion:before {
+  content: "\e9ab";
+}
+.icon-sit-doc:before {
+  content: "\e9ac";
+}
